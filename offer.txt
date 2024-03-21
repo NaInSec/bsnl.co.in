@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<title></title>
+	<meta content="text/html; charset=ISO-8859-1" http-equiv="Content-Type" />
+	<meta content="MSHTML 8.00.6001.18939" name="GENERATOR" />
+</head>
+<body pbzloc="26">
+<ul pbzloc="12">
+	<li pbzloc="14"><a href="#" onclick="return hs.htmlExpand(this, { objectType: 'iframe' } )" style="text-decoration: none; color: navy" target="_blank"><b pbzloc="3"><font color="#0000ff"><u pbzloc="0">BSNL&nbsp;Revises &nbsp;FREE Unlimited Local &amp; STD calls from Landline to any Network Mobile or Landline , This is now available from&nbsp;10:30 PM to&nbsp;6 AM on all days</u></font></b></a><u><strong><span pbzloc="1" style="color: #0000ff"> and 24Hrs on All Sundays .</span></strong></u>
+	<hr pbzloc="15" /></li>
+	<li pbzloc="11">
+	<p pbzloc="7" style="text-align: justify"><span style="color: #ff0000"><strong pbzloc="17">DEAR BSNL A&amp;N CUSTOMERs. WHY TO RECHARGE AFTER EVERY 20 OR 30 DAYs. RECHARGE ONCE &amp; FORGET ANY RECHARGE FOR 365 DAYs( ONE YEAR)&nbsp; &amp; GET&nbsp; UNLIMITED VOICE CALLs, 100 SMS PER DAY &amp; 750 MB/ 01 GB DATA PER DAY ON RECHARGE OD Rs 1699 / Rs 2099 RESPECTIVELY</strong></span></p>
+	</li>
+	<li pbzloc="14">
+	<hr pbzloc="39" /></li>
+	<li pbzloc="21"><span style="color: #0000ff"><strong pbzloc="13">BSNL A&amp;N OFFER FOR LANDLINE / BROADBAND CUSTOMERs FOR UNLIMITED LOCAL / STD CALLs &nbsp;TO ANY NETWORK ON ALL DAYs : FOR&nbsp; LANDLINE ONLY CUSTOMERs BY OPTING PLAN &nbsp;299/- . FOR BROADBAND CUSTOMERs BY OPTING ADD ON PLAN 98/-. VISIT NEAREST BSNL CSC FOR DETAILs</strong> </span>
+	<hr /></li>
+	<li pbzloc="24"><span style="color: #ff0000"><strong pbzloc="25">BSNL A&amp;N Introduces Virtual Landline Plan ASEEM : All Calls on this virtual Landline number will be diverted to one of your Mobile Number ( ie you need to share only this landline number to your Clients / friends ) at an&nbsp; half yearly rent of Rs 99/- only. Call 1500 / Visit nearest CSC for details .</strong></span>
+	<hr /></li>
+</ul>
+</body>
+</html>
